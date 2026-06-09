@@ -9,6 +9,9 @@ Interested in Human-Computer Interaction, Frontend Development, UX Design, and I
 ### Search Engine & Web Crawler
 Python-based search engine using inverted indexing and TF-IDF ranking.
 
+### Spotify Search Application
+Angular and Node.js web application integrating Spotify API search features.
+
 ### ZotResearch
 Research opportunity platform connecting undergraduate students with faculty researchers.
 (Private repository due to ongoing development)
